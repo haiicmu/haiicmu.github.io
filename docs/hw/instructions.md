@@ -2,9 +2,8 @@
 
 ## Basics
 
-Homeworks will be posted on Canvas *after* class the day they are assigned, and
-they will be due *before* class on the due date. **Late homework will not be
-accepted**. Instead, your lowest homework grade will be dropped.
+ **Late homework will not be accepted**. Instead, your lowest homework
+grade will be dropped.
 
 ## Grading
 
@@ -21,10 +20,6 @@ Python notebook.  You can run your code on [Google
 Colab](https://colab.research.google.com/).  If you prefer to run your
 code on your local machine, you should install
 [Anaconda](https://www.anaconda.com/distribution/).
-
-
-- UMN computing resources:
-	- [UMN Virtual Online Linux Environment](https://vole.cse.umn.edu )
 
 
 ## Written Assignments
