@@ -6,11 +6,6 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://haiicmu.github.io/org/</loc>
-     <lastmod>2020-06-23</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-    <url>
      <loc>https://haiicmu.github.io/calendar/</loc>
      <lastmod>2020-06-23</lastmod>
      <changefreq>daily</changefreq>
@@ -21,12 +16,12 @@
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://haiicmu.github.io/resources/math/</loc>
+     <loc>https://haiicmu.github.io/resources/python/</loc>
      <lastmod>2020-06-23</lastmod>
      <changefreq>daily</changefreq>
     </url>
     <url>
-     <loc>https://haiicmu.github.io/resources/python/</loc>
+     <loc>https://haiicmu.github.io/resources/others/</loc>
      <lastmod>2020-06-23</lastmod>
      <changefreq>daily</changefreq>
     </url>

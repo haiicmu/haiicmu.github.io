@@ -18,15 +18,6 @@ classes will not exactly follow the readings, but you will get more
 out of the lectures if you skim the readings afterwards. Readings will
 be drawn from these books:
 
-- **UML**: [Understanding Machine Learning: From Theory to Algorithms](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shai Shalev-Shwartz and Shai Ben-David
-- **MLaPP**: [Machine Learning: a Probabilistic Perspective](https://www.cs.ubc.ca/~murphyk/MLbook/) by Kevin Patrick Murphy
-- **ESL**: [The Elements of Statistical
-Learning:](https://web.stanford.edu/~hastie/ElemStatLearn/) by Trevor
-Hastie, Robert Tibshirani, and Jerome Friedman
-
-You are welcome to buy physical copies if you wish---they're good books!---but
-the online versions will suffice for this course.
-
 ## Homeworks
 
 - Each homework will have two parts: a programming component and a
@@ -51,12 +42,3 @@ partial credit is possible for partial homework solutions.
 - Due to COVID-19, there will be no midterm exam. We will have a
   take-home final exam.
 
-## Grading Policy
-
-Your grade will be based on these components:
-
-- **Homeworks**: 72%
-- **Final Exam**: 18%
-- **Participation**: 10%
-
-Your lowest homework score will be dropped.

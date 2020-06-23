@@ -1,6 +1,6 @@
-site_name: 'Human AI Interaction (Fall 2020)'
+site_name: 'Human-AI Interaction (Fall 2020)'
 site_url: 'https://haiicmu.github.io/'
-site_description: 'Human AI Interaction (Fall 2020)'
+site_description: 'Human-AI Interaction (Fall 2020)'
 site_author: 'Steven Wu & Haiyi Zhu'
 
 theme:
@@ -17,11 +17,10 @@ theme:
 nav:
   - Home:
     - About: 'index.md'
-    - Organization: 'org.md'
   - Schedule:
     - Calendar: 'calendar.md'
   - Assignments:
     - Instructions: 'hw/instructions.md'
   - Resources:
-    - Math: 'resources/math.md'
     - Python: 'resources/python.md'
+    - Related courses: 'resources/others.md'

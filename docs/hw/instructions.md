@@ -5,9 +5,6 @@
  **Late homework will not be accepted**. Instead, your lowest homework
 grade will be dropped.
 
-## Grading
-
-TBA.
 
 ## Programming Assignments
 
@@ -26,7 +23,7 @@ code on your local machine, you should install
 
 For the written assignments, it is required that you typeset your
 homeworks in [LaTeX](https://www.latex-tutorial.com/). There are many
-free integrated LATEX editors that are convenient to use (e.g
+free integrated LaTeX editors that are convenient to use (e.g.,
 [Overleaf](https://www.overleaf.com)).
 
 ## Collaboration Policy
@@ -40,6 +37,6 @@ search online for solutions.
 
 ## Outside Sources
 - Outside sources are a bit less clear. You should **not**:
-	- Google around for solutions to homework problems.
-	- Ask for help on online.
-	- Look up things/post on sites like Quora, StackExchange, etc.
+    - Google around for solutions to homework problems.
+    - Ask for help on online.
+    - Look up things/post on sites like Quora, StackExchange, etc.
