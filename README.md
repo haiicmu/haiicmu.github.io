@@ -1,1 +1,3 @@
-# haiicmu
+---
+permalink: /index.html
+---
