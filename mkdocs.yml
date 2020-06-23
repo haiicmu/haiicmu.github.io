@@ -1,7 +1,7 @@
-site_name: 'CSCI 5525: Machine Learning (Spring 2020)'
-site_url: 'https://zstevenwu.com/courses/s20/csci5525/'
-site_description: 'CSCI 5525: Machine Learning (Spring 2019)'
-site_author: 'Steven Wu'
+site_name: 'Human AI Interaction (Fall 2020)'
+site_url: 'https://haiicmu.github.io/'
+site_description: 'Human AI Interaction (Fall 2020)'
+site_author: 'Steven Wu & Haiyi Zhu'
 
 theme:
   name: 'flatly'

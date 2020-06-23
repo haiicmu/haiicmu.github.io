@@ -1,4 +1,4 @@
-# Welcome to CSCI 5525!
+# Welcome to Human AI Interaction!
 
 ## Syllabus
 
@@ -11,9 +11,9 @@ reinforcement learning.
 
 
 ## Logistics
-- **Course**: CSCI 5525, Spring 2020
-- **Location**: Keller Hall 3-230
-- **Time**: Mondays, 6:30 PM‑9:00 PM
+- **Course**: 
+- **Location**: 
+- **Time**: 
 
 ## Communication
 
@@ -32,15 +32,16 @@ sending emails.
 
 ## Course Staff
 
-- **Instructor**: [Steven Wu](https://zstevenwu.com)
-    - **Email**: zsw@umn.edu
-    - **Office hours**: Monday 4:00-5:00 PM
-    - **Location**: 6-225E Keller Hall
+- **Instructor**:
+- [Haiyi Zhu](https://haiyizhu.com)
+	- **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
+    - **Office hours**: N/A
+	- **Location**: Zoom
+  - [Steven Wu](https://zstevenwu.com)
+	- **Email**: [zsw@umn.edu](mailto:zsw@umn.edu)
+    - **Office hours**: N/A
+	- **Location**: Zoom
 
-- **Teaching Assistant**: Wei Dai
-    - **Email**: dai00074@umn.edu 
-	- **Office hours**: Wedsnesday 1:30 – 2:30 PM; Friday 9:45 - 10:45 AM
-    - **Location**: 2-246 Keller Hall
 
 ## FAQ
 
