@@ -1,0 +1,27 @@
+site_name: 'CSCI 5525: Machine Learning (Spring 2020)'
+site_url: 'https://zstevenwu.com/courses/s20/csci5525/'
+site_description: 'CSCI 5525: Machine Learning (Spring 2019)'
+site_author: 'Steven Wu'
+
+theme:
+  name: 'flatly'
+  language: 'en'
+  feature:
+  tabs: 'true'
+  logo: 'assets/images/favicon.ico'
+  favicon: 'assets/images/favicon.ico'
+  palette:
+    primary: yellow
+    accent: yellow
+
+nav:
+  - Home:
+    - About: 'index.md'
+    - Organization: 'org.md'
+  - Schedule:
+    - Calendar: 'calendar.md'
+  - Assignments:
+    - Instructions: 'hw/instructions.md'
+  - Resources:
+    - Math: 'resources/math.md'
+    - Python: 'resources/python.md'
