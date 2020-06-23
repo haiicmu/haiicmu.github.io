@@ -22,8 +22,6 @@ Colab](https://colab.research.google.com/).  If you prefer to run your
 code on your local machine, you should install
 [Anaconda](https://www.anaconda.com/distribution/).
 
-	<!-- - a [VirtualBox](https://www.virtualbox.org/) virtual environment -->
-    <!-- with all of the packages pre-installed -->
 
 - UMN computing resources:
 	- [UMN Virtual Online Linux Environment](https://vole.cse.umn.edu )
@@ -50,9 +48,3 @@ search online for solutions.
 	- Google around for solutions to homework problems.
 	- Ask for help on online.
 	- Look up things/post on sites like Quora, StackExchange, etc.
-
-## The Bottom Line
-
-**If you are unsure about whether a source is permissible, or if you
-are falling behind in the course and feel a strong temptation to bend
-these rules, please come talk to us instead.**

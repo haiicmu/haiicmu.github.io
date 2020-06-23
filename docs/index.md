@@ -53,16 +53,6 @@ learning.
 
 - What are the pre-requisites?
 
-Ideally you will have completed CSCI 5521 or equivalently other
-introduction to machine learning courses.  You should also have (1)
-undergraduate level training or coursework in linear algebra,
-multivariate calculus, and basic probability and statistics, and (2)
-programming skills with Python.
+N/A
 
-- Will there be programming?
 
-Yes, there will be programming.
-
-- Will there be math?
-
-Yes, a lot.
