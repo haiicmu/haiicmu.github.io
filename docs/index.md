@@ -47,8 +47,7 @@ sending emails.
 
 - Who should take this course?
 
-Advanced undergraduates or graduate students interested in machine
-learning.
+Advanced undergraduates or graduate students interested in Human-AI interaction.
 
 
 - What are the pre-requisites?
