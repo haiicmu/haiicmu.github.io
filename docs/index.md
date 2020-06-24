@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-In short, the goal of this course is to introduce students to ways of
+(Change here) In short, the goal of this course is to introduce students to ways of
 thinking about how Artificial Intelligence will and has impacted
 humans, and how we can design interactive intelligent systems that are
 usable and beneficial to humans, and respect human values. As students
