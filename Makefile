@@ -13,8 +13,6 @@ slides:
 
 install:
 	pip install mkdocs katex mkdocs-material pymdown-extensions
-	# (cabal new-update && cabal new-install pandoc)
-	npm install decktape
 
 deploy:
 	make build
