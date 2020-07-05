@@ -2,7 +2,7 @@
 
 ## Syllabus
 
-(Change here) In short, the goal of this course is to introduce students to ways of
+In short, the goal of this course is to introduce students to ways of
 thinking about how Artificial Intelligence will and has impacted
 humans, and how we can design interactive intelligent systems that are
 usable and beneficial to humans, and respect human values. As students
@@ -12,8 +12,6 @@ impacts their usability for humans, understand the various places that
 humans exist in the data pipeline that drives machine learning, and
 learn to think both optimistically and critically of what AI systems
 can do and how they can and should be integrated into society.
-
-
 
 
 ## Logistics
