@@ -40,7 +40,7 @@ sending emails.
     - **Office hours**: N/A
 	- **Location**: Zoom
   - [Steven Wu](https://zstevenwu.com)
-	- **Email**: [zsw@umn.edu](mailto:zsw@umn.edu)
+	- **Email**: [zsw@umn.edu](mailto:zstevenwu@cmu.edu)
     - **Office hours**: N/A
 	- **Location**: Zoom
 
