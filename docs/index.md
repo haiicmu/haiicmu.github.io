@@ -45,7 +45,7 @@ Diversity, Equity, and Inclusion committee, Jodi Forlizzi
 ## Logistics
 - **Course**: 05618/05318 Human-AI Interaction, Fall 2020
 - **Zoom Link**:  Available soon.
-- **Time**: 3:20-4:40 pm Tuesday Thursday
+- **Time**: Fall 2020, 3:20-4:40pm T/Th
 
 ## Communication
 
@@ -110,7 +110,7 @@ late for one assignment, 2 for another, or all 5 for one.
 
 You cannot use late days for quizzes.
 
-## Special Accommodation
+## Special Accommodations
 If you have a disability and have an accommodation letter from the
 Disability Resources office, we encourage you to discuss your
 accommodations and needs with us as early in the semester as

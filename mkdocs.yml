@@ -6,13 +6,8 @@ site_author: 'Steven Wu & Haiyi Zhu'
 theme:
   name: 'flatly'
   language: 'en'
-  feature:
-  tabs: 'true'
-  logo: 'assets/images/favicon.ico'
-  favicon: 'assets/images/favicon.ico'
-  palette:
-    primary: yellow
-    accent: yellow
+  favicon: assets/images/favicon.png
+
 
 nav:
   - Home: 'index.md'
