@@ -15,10 +15,8 @@ theme:
     accent: yellow
 
 nav:
-  - Home:
-    - About: 'index.md'
-  - Schedule:
-    - Calendar: 'calendar.md'
+  - Home: 'index.md'
+  - Schedule: 'calendar.md'
   - Resources:
     - Python: 'resources/python.md'
     - Related courses: 'resources/others.md'
