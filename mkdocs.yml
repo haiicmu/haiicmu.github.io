@@ -19,8 +19,6 @@ nav:
     - About: 'index.md'
   - Schedule:
     - Calendar: 'calendar.md'
-  - Assignments:
-    - Instructions: 'hw/instructions.md'
   - Resources:
     - Python: 'resources/python.md'
     - Related courses: 'resources/others.md'
