@@ -81,11 +81,11 @@ sending emails.
 
 Percentage | Activity  | 
 ------|-----|
-6% | Attendance & Active Participation|
 10%| Reading Reflections (approximately once a week)|
 10%| In-class Reading Panel Participation|
 14%| Quizzes (15 quizzes in all, lowest score dropped).|
-60%| Projects & Assignment <br> Assignment 1-5, Final project: 10%|
+50%| Assignment 1-5, 10% each|
+16%| Final project: 16%|
 
 
 
