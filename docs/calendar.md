@@ -1,6 +1,6 @@
 # Course Schedule (Tentative)
 
-Lecture | Date  | Topic | Readings | Notes|
+Lecture | Date  | Topic | Readings | Slides|
 :------:|:-----:|-------|----------|:------:
 |   | **Week 1** | **Introduction to Human-AI Interactions** |
 |   | **Week 2** | **Perspectives on Human-AI Interaction** |

@@ -63,7 +63,7 @@ Diversity, Equity, and Inclusion committee, Jodi Forlizzi
 Please also post all questions on Canvas as discussions instead of
 sending emails.
 
--  **Email**: If you email your instructors, you must include the
+-  **Email**: If you email your instructors, you might want to include the
   substring "HAII Course" to begin a meaningful subject line and have
   tried to resolve the issue appropriately otherwise. For example, you
   should post questions about course material and homework assignments
