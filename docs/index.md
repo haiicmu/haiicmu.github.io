@@ -1,6 +1,6 @@
 # Welcome to Human-AI Interaction!
 
-## Syllabus
+## Overview
 
 In short, the goal of this course is to introduce students to ways of
 thinking about how Artificial Intelligence will and has impacted
@@ -13,6 +13,22 @@ humans exist in the data pipeline that drives machine learning, and
 learn to think both optimistically and critically of what AI systems
 can do and how they can and should be integrated into society.
 
+
+## Logistics
+- **Course**: 05618/05318 Human-AI Interaction, Fall 2020
+- **Zoom Link**:  see the announcement on Canvas.
+- **Time**: Fall 2020, 3:20-4:40pm T/Th
+
+
+## Instructors
+  - [Haiyi Zhu](https://haiyizhu.com)
+  - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
+    - **Office hours**: Friday 4:30pm -- 5:30 pm
+  - **Location**: https://cmu.zoom.us/my/haiyi
+  - [Steven Wu](https://zstevenwu.com)
+  - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
+    - **Office hours**: N/A
+  - **Location**: Zoom
 
 ## Diversity Statement
 It is our goal that students from all diverse backgrounds and
@@ -38,14 +54,8 @@ stereotypes, please report those experiences using this form
 (responses can be anonymous). If you’re uncomfortable sharing with
 your instructors, you may voice your concerns to the chair of the HCII
 Diversity, Equity, and Inclusion committee, Jodi Forlizzi
-[(forlizzi@cmu.edu)](mailto:forlizzi@cmu.edu).
+[(forlizzi@cmu.edu)](mailto:forlizzi@cmu.edu).  
 
-
-
-## Logistics
-- **Course**: 05618/05318 Human-AI Interaction, Fall 2020
-- **Zoom Link**:  see the announcement on Canvas.
-- **Time**: Fall 2020, 3:20-4:40pm T/Th
 
 ## Communication
 
@@ -62,15 +72,6 @@ sending emails.
   email account.
 
 
-## Instructors
-  - [Haiyi Zhu](https://haiyizhu.com)
-	- **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
-    - **Office hours**: Friday 4:30pm -- 5:30 pm
-	- **Location**: https://cmu.zoom.us/my/haiyi
-  - [Steven Wu](https://zstevenwu.com)
-	- **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
-    - **Office hours**: N/A
-	- **Location**: Zoom
 
 
 
