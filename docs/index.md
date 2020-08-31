@@ -22,13 +22,13 @@ can do and how they can and should be integrated into society.
 
 ## Instructors
   - [Haiyi Zhu](https://haiyizhu.com)
-  - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
+    - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
     - **Office hours**: Friday 4:30pm -- 5:30 pm
-  - **Location**: https://cmu.zoom.us/my/haiyi
+    - **Location**: https://cmu.zoom.us/my/haiyi
   - [Steven Wu](https://zstevenwu.com)
-  - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
+    - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
     - **Office hours**: N/A
-  - **Location**: Zoom
+    - **Location**: Zoom
 
 ## Diversity Statement
 It is our goal that students from all diverse backgrounds and
