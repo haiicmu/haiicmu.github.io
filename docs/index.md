@@ -23,12 +23,12 @@ can do and how they can and should be integrated into society.
 ## Instructors
   - [Haiyi Zhu](https://haiyizhu.com)
     - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
-    - **Office hours**: Friday 4:30pm -- 5:30 pm
+    - **Office hours**: Wed 9:30am - 10:30 pm ET
     - **Location**: see the announcement on Canvas
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
-    - **Office hours**: N/A
-    - **Location**: Zoom
+    - **Office hours**: Monday 4:00pm - 5:00pm ET
+    - **Location**: see the announcement on Canvas
 
 ## Diversity Statement
 It is our goal that students from all diverse backgrounds and
