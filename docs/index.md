@@ -44,7 +44,7 @@ Diversity, Equity, and Inclusion committee, Jodi Forlizzi
 
 ## Logistics
 - **Course**: 05618/05318 Human-AI Interaction, Fall 2020
-- **Zoom Link**:  see announcement on Canvas.
+- **Zoom Link**:  see the announcement on Canvas.
 - **Time**: Fall 2020, 3:20-4:40pm T/Th
 
 ## Communication
