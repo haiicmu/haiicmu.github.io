@@ -24,7 +24,7 @@ can do and how they can and should be integrated into society.
   - [Haiyi Zhu](https://haiyizhu.com)
     - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
     - **Office hours**: Friday 4:30pm -- 5:30 pm
-    - **Location**: https://cmu.zoom.us/my/haiyi
+    - **Location**: see the announcement on Canvas
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
     - **Office hours**: N/A
