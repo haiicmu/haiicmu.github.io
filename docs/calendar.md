@@ -4,7 +4,7 @@ Week  |Lecture   |Topic  |Readings  |Slides |
 :------:|:-----:|-------|----------|:------:
 | **Week 1** |Lecture 1| **Introduction to Human-AI Interactions** |N/A|[slides](https://drive.google.com/file/d/14tRHF-Sdhr9Sie59LiUyPBQhE4Sawngc/view?usp=sharing)
 | **Week 1** |Lecture 2| **Practical Machine Learning** |N/A|
-| **Week 2**    || **Perspectives on Human-AI Interaction** |
+| **Week 2** |Lecture 3| **Perspectives on Human-AI Interaction** |[Reading 1](https://drive.google.com/file/d/1grw-nE7hGErwgkYB0SBrSIlD0xIXy_js/view?usp=sharing) <br />[Reading 2](http://erichorvitz.com/chi99horvitz.pdf)|
 | **Week 3**    || **Perspectives on Human-AI Interaction** |
 | **Week 4**    || **Fairness in ML** |
 | **Week 5**    || **Fairness in ML (Guest Lectures)** |
