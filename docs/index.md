@@ -111,6 +111,19 @@ late for one assignment, 2 for another, or all 5 for one.
 
 You cannot use late days for quizzes.
 
+## In-Class Activity
+During this class, we will conduct research on how a novel team-based
+learning activity influences the understanding of the social aspects
+of fairness metrics in machine learning. This research will involve
+completing an in-class (during lecture time) activity for a better
+understanding of the materials taught in the class. You will not be
+asked to do anything above and beyond the normal learning activities
+and assignments that are part of this course. You will be required to
+complete this in-class activity as part of the designed
+curriculum. However, you will have the choice to opt-out of data
+collection. Participants will not receive any compensation.
+
+
 ## Special Accommodations
 If you have a disability and have an accommodation letter from the
 Disability Resources office, we encourage you to discuss your
