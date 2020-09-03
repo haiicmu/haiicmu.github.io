@@ -12,6 +12,8 @@ theme:
 nav:
   - Home: 'index.md'
   - Schedule: 'calendar.md'
+  - Assignments:
+    - Assignment 1: 'hw/hw1.md'
   - Resources:
     - Python: 'resources/python.md'
     - Related courses: 'resources/others.md'
