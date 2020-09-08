@@ -112,7 +112,7 @@ late for one assignment, 2 for another, or all 5 for one.
 You cannot use late days for quizzes.
 
 ## In-Class Activity
-During this class, we will conduct research on how a novel team-based
+During this class on Sept 10th, we will conduct research on how a novel team-based
 learning activity influences the understanding of the social aspects
 of fairness metrics in machine learning. This research will involve
 completing an in-class (during lecture time) activity for a better
