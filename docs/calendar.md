@@ -7,7 +7,7 @@ Week  |Lecture   |Topic  |Readings  |Slides |
 | **Week 2** |Lecture 3| **Perspectives on Human-AI Interaction** |[Reading 1](https://drive.google.com/file/d/1grw-nE7hGErwgkYB0SBrSIlD0xIXy_js/view?usp=sharing) <br />[Reading 2](http://erichorvitz.com/chi99horvitz.pdf)| [Slides](https://drive.google.com/file/d/1A__Sj_4_mcg89W-VpAdTXGdqnMWmXUH9/view?usp=sharing)
 | **Week 2** |Lecture 4| **Team-based activities** |
 | **Week 3** |Lecture 5| **Machine Learning + UX** |N/A|[Slides](https://drive.google.com/file/d/1odcRhH4HPvDmLQ_x-IpejVS35bGLNpm-/view?usp=sharing)
-| **Week 3** |Lecture 6| **Human Centered AI Design** |
+| **Week 3** |Lecture 6| **Human Centered AI Design** |N/A|[Slides](https://drive.google.com/file/d/1MRKrdUIvu6CFjpBbBlJT72s-ewNLwvw3/view?usp=sharing)
 | **Week 4**    || **Fairness in ML** |
 | **Week 5**    || **Fairness in ML (Guest Lectures)** |
 | **Week 6**    || **Interpretability** |
