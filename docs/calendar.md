@@ -15,7 +15,7 @@ Week  |Lecture   |Topic  |Readings  |Slides |
 | **Week 6**    | Lecture 11 | **(Differential) Privacy** | [Reading](https://arstechnica.com/tech-policy/2009/09/your-secrets-live-online-in-databases-of-ruin/) | [Slides](https://drive.google.com/file/d/1f1VsSKc_y0zP0PCCGyhTQSWFnsMu0-lU/view?usp=sharing)
 | **Week 6**    | Lecture 12 | **Privacy and Security for Internet of Things**<br> (Guest Lecture by [Jason Hong](http://www.cs.cmu.edu/~jasonh/)) | [Reading](https://cmu.app.box.com/s/33kxmwvdrauel90incqwa5i71hqx98sx) | [Slides](https://drive.google.com/file/d/13wTmhM559MOCHAT_wEeuBLhEal4XYbY0/view?usp=sharing)
 | **Week 7**    || **Interpretability** (Part 1) | [Reading 1](https://arxiv.org/pdf/1602.04938.pdf)<br> [Reading 2](https://arxiv.org/pdf/1702.08608.pdf)
-| **Week 7**    || **Interpretability** (Part 2) <br> (Guest lecture by [Hima Lakkaraju](https://himalakkaraju.github.io/)) |
+| **Week 7**    || **Interpretability** (Part 2) <br> (Guest lecture by [Hima Lakkaraju](https://himalakkaraju.github.io/)) | [Reading 1](https://arxiv.org/abs/1911.02508)<br> [Reading 2](https://arxiv.org/abs/1911.06473)
 | **Week 8**    || **Social Acceptability, Ethics, and Trust** |
 | **Week 9**    || **Recommender Systems** |
 | **Week 10**    || **GAN/Images/Deep Fake** |
