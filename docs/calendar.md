@@ -21,6 +21,6 @@ Week  |Lecture   |Topic  |Readings  |Slides |
 | **Week 10**    || **GAN/Images/Deep Fake** |
 | **Week 11**    || **NLP and Speech** |
 | **Week 12**    || **Domain-Specific Applications** |
-| **Week 13**    || **Buffer** |
-| **Week 14**    || **Thanksgiving** |
+| **Week 13**    || **Thanksgiving** |
+| **Week 14**    || **Peer Feedback ** |
 | **Week 15**    || **Project Presentation** |
