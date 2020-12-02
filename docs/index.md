@@ -84,8 +84,9 @@ Percentage | Activity  |
 10%| Reading Reflections (approximately once a week)|
 10%| In-class Activity Participation|
 14%| Quizzes (15 quizzes in all, lowest score dropped).|
-50%| Assignment 1-5, 10% each|
+50%| Assignment 1-4, 12.5% each|
 16%| Final Project|
+5% Extra | Bonus Assignment 5
 
 
 
