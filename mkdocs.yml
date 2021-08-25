@@ -1,10 +1,10 @@
-site_name: 'Human-AI Interaction (Fall 2020)'
+site_name: 'Human-AI Interaction (Fall 2021)'
 site_url: 'https://haiicmu.github.io/'
-site_description: 'Human-AI Interaction (Fall 2020)'
+site_description: 'Human-AI Interaction (Fall 2021)'
 site_author: 'Steven Wu & Haiyi Zhu'
 
 theme:
-  name: 'flatly'
+  name: 'mkdocs'
   language: 'en'
   logo: 'assets/images/favicon.png'
   favicon: 'assets/images/favicon.png'

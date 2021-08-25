@@ -15,19 +15,19 @@ can do and how they can and should be integrated into society.
 
 
 ## Logistics
-- **Course**: 05618/05318 Human-AI Interaction, Fall 2020
+- **Course**: 05618/05318 Human-AI Interaction, Fall 2021
 - **Zoom Link**:  see the announcement on Canvas.
-- **Time**: Fall 2020, 3:20-4:40pm T/Th
+- **Time**: Fall 2021, 3:05-4:25pm T/Th
 
 
 ## Instructors
   - [Haiyi Zhu](https://haiyizhu.com)
     - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
-    - **Office hours**: Wed 9:30am - 10:30 pm ET
+    - **Office hours**: N/A
     - **Location**: see the announcement on Canvas
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
-    - **Office hours**: Monday 4:00pm - 5:00pm ET
+    - **Office hours**: N/A
     - **Location**: see the announcement on Canvas
 
 ## Diversity Statement
@@ -54,7 +54,7 @@ stereotypes, please report those experiences using this form
 (responses can be anonymous). If you’re uncomfortable sharing with
 your instructors, you may voice your concerns to the chair of the HCII
 Diversity, Equity, and Inclusion committee, Jodi Forlizzi
-[(forlizzi@cmu.edu)](mailto:forlizzi@cmu.edu).  
+[(forlizzi@cmu.edu)](mailto:forlizzi@cmu.edu).
 
 
 ## Communication
