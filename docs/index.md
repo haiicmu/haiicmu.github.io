@@ -16,7 +16,7 @@ can do and how they can and should be integrated into society.
 
 ## Logistics
 - **Course**: 05618/05318 Human-AI Interaction, Fall 2021
-- **Zoom Link**:  see the announcement on Canvas.
+- **Location**: GHC 4307
 - **Time**: Fall 2021, 3:05-4:25pm T/Th
 
 
