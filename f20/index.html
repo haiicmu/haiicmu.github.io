@@ -1,0 +1,409 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="description" content="Human-AI Interaction (Fall 2020)">
+        <meta name="author" content="Steven Wu & Haiyi Zhu">
+        <link rel="canonical" href="https://haiicmu.github.io/">
+        <link rel="shortcut icon" href="img/favicon.ico">
+        <title>Human-AI Interaction (Fall 2020)</title>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="css/base.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/docco.min.css">
+
+        <script src="js/jquery-1.10.2.min.js" defer></script>
+        <script src="js/bootstrap.min.js" defer></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+        <script>hljs.initHighlightingOnLoad();</script> 
+    </head>
+
+    <body class="homepage">
+        <div class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary">
+            <div class="container">
+                <a class="navbar-brand" href=".">Human-AI Interaction (Fall 2020)</a>
+                <!-- Expander button -->
+                <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Expanded navigation -->
+                <div id="navbar-collapse" class="navbar-collapse collapse">
+                        <!-- Main navigation -->
+                        <ul class="nav navbar-nav">
+                            <li class="navitem active">
+                                <a href="." class="nav-link">Home</a>
+                            </li>
+                            <li class="navitem">
+                                <a href="calendar/" class="nav-link">Schedule</a>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Assignments <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="hw/hw1/" class="dropdown-item">Assignment 1</a>
+</li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="nav-link dropdown-toggle" data-toggle="dropdown">Resources <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    
+<li>
+    <a href="resources/python/" class="dropdown-item">Python</a>
+</li>
+                                    
+<li>
+    <a href="resources/others/" class="dropdown-item">Related courses</a>
+</li>
+                                </ul>
+                            </li>
+                        </ul>
+
+                    <ul class="nav navbar-nav ml-auto">
+                        <li class="nav-item">
+                            <a href="#" class="nav-link" data-toggle="modal" data-target="#mkdocs_search_modal">
+                                <i class="fa fa-search"></i> Search
+                            </a>
+                        </li>
+                            <li class="nav-item">
+                                <a rel="prev" class="nav-link disabled">
+                                    <i class="fa fa-arrow-left"></i> Previous
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a rel="next" href="calendar/" class="nav-link">
+                                    Next <i class="fa fa-arrow-right"></i>
+                                </a>
+                            </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="row">
+                    <div class="col-md-3"><div class="navbar-light navbar-expand-md bs-sidebar hidden-print affix" role="complementary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggler collapsed" data-toggle="collapse" data-target="#toc-collapse" title="Table of Contents">
+            <span class="fa fa-angle-down"></span>
+        </button>
+    </div>
+
+    
+    <div id="toc-collapse" class="navbar-collapse collapse card bg-secondary">
+        <ul class="nav flex-column">
+            
+            <li class="nav-item" data-level="1"><a href="#welcome-to-human-ai-interaction" class="nav-link">Welcome to Human-AI Interaction!</a>
+              <ul class="nav flex-column">
+            <li class="nav-item" data-level="2"><a href="#overview" class="nav-link">Overview</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#logistics" class="nav-link">Logistics</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#instructors" class="nav-link">Instructors</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#diversity-statement" class="nav-link">Diversity Statement</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#communication" class="nav-link">Communication</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#grading" class="nav-link">Grading</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#when-work-is-due" class="nav-link">When Work is Due</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#late-assignments" class="nav-link">Late Assignments</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#in-class-activity" class="nav-link">In-Class Activity</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#special-accommodations" class="nav-link">Special Accommodations</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+            <li class="nav-item" data-level="2"><a href="#health-wellness" class="nav-link">Health &amp; Wellness</a>
+              <ul class="nav flex-column">
+              </ul>
+            </li>
+              </ul>
+            </li>
+        </ul>
+    </div>
+</div></div>
+                    <div class="col-md-9" role="main">
+
+<h1 id="welcome-to-human-ai-interaction">Welcome to Human-AI Interaction!</h1>
+<h2 id="overview">Overview</h2>
+<p>In short, the goal of this course is to introduce students to ways of
+thinking about how Artificial Intelligence will and has impacted
+humans, and how we can design interactive intelligent systems that are
+usable and beneficial to humans, and respect human values. As students
+in this course, you will build a number of different interactive
+technologies powered by AI, gain practical experience with what
+impacts their usability for humans, understand the various places that
+humans exist in the data pipeline that drives machine learning, and
+learn to think both optimistically and critically of what AI systems
+can do and how they can and should be integrated into society.</p>
+<h2 id="logistics">Logistics</h2>
+<ul>
+<li><strong>Course</strong>: 05618/05318 Human-AI Interaction, Fall 2020</li>
+<li><strong>Zoom Link</strong>:  see the announcement on Canvas.</li>
+<li><strong>Time</strong>: Fall 2020, 3:20-4:40pm T/Th</li>
+</ul>
+<h2 id="instructors">Instructors</h2>
+<ul>
+<li><a href="https://haiyizhu.com">Haiyi Zhu</a><ul>
+<li><strong>Email</strong>: <a href="mailto:haiyiz@cs.cmu.edu">haiyiz@cs.cmu.edu</a></li>
+<li><strong>Office hours</strong>: Wed 9:30am - 10:30 pm ET</li>
+<li><strong>Location</strong>: see the announcement on Canvas</li>
+</ul>
+</li>
+<li><a href="https://zstevenwu.com">Steven Wu</a><ul>
+<li><strong>Email</strong>: <a href="mailto:zstevenwu@cmu.edu">zstevenwu@cmu.edu</a></li>
+<li><strong>Office hours</strong>: Monday 4:00pm - 5:00pm ET</li>
+<li><strong>Location</strong>: see the announcement on Canvas</li>
+</ul>
+</li>
+</ul>
+<h2 id="diversity-statement">Diversity Statement</h2>
+<p>It is our goal that students from all diverse backgrounds and
+perspectives are well served by this course, that students’ learning
+needs be addressed both in and out of class, and that the diversity
+that students bring to this class be viewed as a resource, strength,
+and benefit. Dimensions of diversity include race, age, national
+origin, ethnicity, gender identity and expression, intellectual and
+physical ability, sexual orientation, faith and non-faith
+perspectives, socio-economic class, political ideology, education,
+primary language, family status, military experience, cognitive style,
+and communication style. We are intentional in our aim to present
+materials and activities that are respectful of diversity, based on
+these dimensions and any other visible and invisible differences not
+captured in this list. Indeed, in this class you will learn to
+approach technology design from an empathetic, human-centered
+perspective that directly examines and challenges bias and
+inequality. Your suggestions for ensuring that the class lives up to
+these values are encouraged and welcomed. In addition, if at any time
+you experience or witness anything in this class that challenges
+inclusion, is insensitive or othering, or reinforces biases or
+stereotypes, please report those experiences using this form
+(responses can be anonymous). If you’re uncomfortable sharing with
+your instructors, you may voice your concerns to the chair of the HCII
+Diversity, Equity, and Inclusion committee, Jodi Forlizzi
+<a href="mailto:forlizzi@cmu.edu">(forlizzi@cmu.edu)</a>.  </p>
+<h2 id="communication">Communication</h2>
+<ul>
+<li>
+<p><strong>Canvas</strong>: We will be using Canvas for all assignments and grades.
+Please also post all questions on Canvas as discussions instead of
+sending emails.</p>
+</li>
+<li>
+<p><strong>Email</strong>: If you email your instructors, you might want to include the
+  substring "HAII Course" to begin a meaningful subject line and have
+  tried to resolve the issue appropriately otherwise. For example, you
+  should post questions about course material and homework assignments
+  on Canvas first, and then use emails only after an appropriate
+  amount of time has passed without a response. Please use your CMU
+  email account.</p>
+</li>
+</ul>
+<h2 id="grading">Grading</h2>
+<table>
+<thead>
+<tr>
+<th>Percentage</th>
+<th>Activity</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>10%</td>
+<td>Reading Reflections (approximately once a week)</td>
+</tr>
+<tr>
+<td>10%</td>
+<td>In-class Activity Participation</td>
+</tr>
+<tr>
+<td>14%</td>
+<td>Quizzes (15 quizzes in all, lowest score dropped).</td>
+</tr>
+<tr>
+<td>50%</td>
+<td>Assignment 1-4, 12.5% each</td>
+</tr>
+<tr>
+<td>16%</td>
+<td>Final Project</td>
+</tr>
+<tr>
+<td>5% Extra</td>
+<td>Bonus Assignment 5</td>
+</tr>
+</tbody>
+</table>
+<h2 id="when-work-is-due">When Work is Due</h2>
+<ul>
+<li>
+<p>All quizzes happen at the beginning of class on Thursday. </p>
+</li>
+<li>
+<p>Projects and assignments are due on Sundays at 11:59pm. </p>
+</li>
+<li>
+<p>Reading reflections are due just before class on the day we have the
+scheduled discussion related to the readings. If there is no scheduled
+discussion, they are due the class after they are assigned (e.g. if
+assigned on Tuesday, they are due Thursday)</p>
+</li>
+</ul>
+<h2 id="late-assignments">Late Assignments</h2>
+<p>We realize that things happen, and that you might sometimes not be
+able to turn in your assignments. To accommodate this, you will each
+receive <strong>5 free late days</strong>.</p>
+<p>Beyond those days, you receive a 5% penalty for each day late.  You
+are welcome to budget late days as you like, for instance 3 free days
+late for one assignment, 2 for another, or all 5 for one.</p>
+<p>You cannot use late days for quizzes.</p>
+<h2 id="in-class-activity">In-Class Activity</h2>
+<p>During this class on Sept 10th, we will conduct research on how a novel team-based
+learning activity influences the understanding of the social aspects
+of fairness metrics in machine learning. This research will involve
+completing an in-class (during lecture time) activity for a better
+understanding of the materials taught in the class. You will not be
+asked to do anything above and beyond the normal learning activities
+and assignments that are part of this course. You will be required to
+complete this in-class activity as part of the designed
+curriculum. However, you will have the choice to opt-out of data
+collection. Participants will not receive any compensation.</p>
+<h2 id="special-accommodations">Special Accommodations</h2>
+<p>If you have a disability and have an accommodation letter from the
+Disability Resources office, we encourage you to discuss your
+accommodations and needs with us as early in the semester as
+possible. We will work with you to ensure that accommodations are
+provided as appropriate. If you suspect that you may have a disability
+and would benefit from accommodations but are not yet registered with
+the Office of Disability Resources, we encourage you to contact them
+at <a href="mailto:access@andrew.cmu.edu">access@andrew.cmu.edu</a>.</p>
+<h2 id="health-wellness">Health &amp; Wellness</h2>
+<p>Take care of yourself. Do your best to maintain a healthy lifestyle
+this semester by eating well, exercising, avoiding drugs and alcohol,
+getting enough sleep and taking some time to relax. This will help you
+achieve your goals and cope with stress.</p>
+<p>All of us benefit from support during times of struggle. There are
+many helpful resources available on campus and an important part of
+the college experience is learning how to ask for help. Asking for
+support sooner rather than later is almost always helpful.</p>
+<p>If you or anyone you know experiences any academic stress, difficult
+life events, or feelings like anxiety or depression, we strongly
+encourage you to seek support. Counseling and Psychological Services
+(CaPS) is here to help: call 412-268-2922 and visit their website at
+<a href="http://www.cmu.edu/counseling/">http://www.cmu.edu/counseling/</a>. Consider
+reaching out to a friend, faculty or family member you trust for help
+getting connected to the support that can help.</p>
+<p>If you or someone you know is feeling suicidal or in danger of self-harm, call someone immediately, day or night:</p>
+<p>CaPS: 412-268-2922</p>
+<p>Re:solve Crisis Network: 888-796-8226</p></div>
+            </div>
+        </div>
+
+        <footer class="col-md-12">
+            <hr>
+            <p>Documentation built with <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+        </footer>
+        <script>
+            var base_url = ".",
+                shortcuts = {"help": 191, "next": 78, "previous": 80, "search": 83};
+        </script>
+        <script src="js/base.js" defer></script>
+        <script src="search/main.js" defer></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="searchModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="searchModalLabel">Search</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+                <p>
+                    From here you can search these documents. Enter
+                    your search terms below.
+                </p>
+                <form>
+                    <div class="form-group">
+                        <input type="search" class="form-control" placeholder="Search..." id="mkdocs-search-query" title="Type search term here">
+                    </div>
+                </form>
+                <div id="mkdocs-search-results"></div>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div><div class="modal" id="mkdocs_keyboard_modal" tabindex="-1" role="dialog" aria-labelledby="keyboardModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h4 class="modal-title" id="keyboardModalLabel">Keyboard Shortcuts</h4>
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+            </div>
+            <div class="modal-body">
+              <table class="table">
+                <thead>
+                  <tr>
+                    <th style="width: 20%;">Keys</th>
+                    <th>Action</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                    <td class="help shortcut"><kbd>?</kbd></td>
+                    <td>Open this help</td>
+                  </tr>
+                  <tr>
+                    <td class="next shortcut"><kbd>n</kbd></td>
+                    <td>Next page</td>
+                  </tr>
+                  <tr>
+                    <td class="prev shortcut"><kbd>p</kbd></td>
+                    <td>Previous page</td>
+                  </tr>
+                  <tr>
+                    <td class="search shortcut"><kbd>s</kbd></td>
+                    <td>Search</td>
+                  </tr>
+                </tbody>
+              </table>
+            </div>
+            <div class="modal-footer">
+            </div>
+        </div>
+    </div>
+</div>
+
+    </body>
+</html>
+
+<!--
+MkDocs version : 1.1.2
+Build Date UTC : 2020-12-02 20:52:12.935525+00:00
+-->
