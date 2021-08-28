@@ -23,7 +23,7 @@ can do and how they can and should be integrated into society.
 ## Instructors
   - [Haiyi Zhu](https://haiyizhu.com)
     - **Email**: [haiyiz@cs.cmu.edu](mailto:haiyiz@cs.cmu.edu)
-    - **Office hours**: N/A
+    - **Office hours**: Wed 9-10 am
     - **Location**: see the announcement on Canvas
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
