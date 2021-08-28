@@ -73,16 +73,17 @@ Percentage | Activity  |
 scheduled discussion related to the readings. 
 
 
-## Late Assignments
-We realize that things happen, and that you might sometimes not be
-able to turn in your assignments. To accommodate this, you will each
-receive **5 free late days**.
+## Late Assignments and Attendance Policy
 
-Beyond those days, you receive a 5% penalty for each day late.  You
-are welcome to budget late days as you like, for instance 3 free days
-late for one assignment, 2 for another, or all 5 for one.
+Attending class in person and submitting course deliverables on time is critical. However, we realize that things happen, and that you might sometimes not be able to turn in your assignments. To accommodate this, you will each receive **5 free late days**.
+
+Beyond those days, you receive a 5% penalty for each day late.  You are welcome to budget late days as you like, for instance 3 free day late for one assignment, 2 for another, or all 5 for one.
 
 You cannot use late days for quizzes.
+
+Please do not, under any circumstances, come to class while sick. If you are sick, please stay home and communicate with us.
+If you are unable to attend a given class in person, but would like to attend remotely, please email the instructors to receive the remote access to the class. 
+
 
 
 ## Diversity Statement
