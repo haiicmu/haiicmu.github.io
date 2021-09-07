@@ -27,7 +27,7 @@ can do and how they can and should be integrated into society.
     - **Location**: see the announcement on Canvas
   - [Steven Wu](https://zstevenwu.com)
     - **Email**: [zstevenwu@cmu.edu](mailto:zstevenwu@cmu.edu)
-    - **Office hours**: N/A
+    - **Office hours**: Mon 2:45--3:30 pm
     - **Location**: see the announcement on Canvas
 
 
